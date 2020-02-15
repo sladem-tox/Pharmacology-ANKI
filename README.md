@@ -13,4 +13,4 @@ Now you can import the files into ANKI and start learning key ideas and facts th
 
 ## Detailed Instructions for Mac and PC Users
 
-See the [Getting Started with ANKI](Getting_started_with_Anki_16Jul19.pdf) guide in the list of files above (it's the PDF).
+See the [Getting Started with ANKI](Getting_started_with_Anki_16Jul19.pdf) guide (in the list of files above) for a brief explanation of the rationale behind this project and detailed instructions for importing the apkg files in both Mac and PC environments.
