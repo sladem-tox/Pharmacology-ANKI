@@ -7,7 +7,7 @@ This project relies on the use of a third party flashcard software called ANKI.
 
 Download [ANKI](https://apps.ankiweb.net/) and intall it on your computer.
 
-Then download these ANKI package (apkg) files from the list above.
+Then download these ANKI package (apkg) files from https://github.com/sladem-tox/Pharmacology-ANKI.
 
 Now you can import the files into ANKI and start learning key ideas and facts that will help increase your familiarity with pharmacology in the fastest way possible.
 
